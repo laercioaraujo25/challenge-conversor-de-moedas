@@ -7,6 +7,7 @@ O sistema permite converter valores entre diversas moedas, listar moedas suporta
 
 ## 📌 Funcionalidades
 
+PARA TESTAR ADICIONE A CHAVE API NO ARQUIVO /src/conversor.java na String CHAVE
 
 ### ✅ 1. Converter valor para todas as moedas
 O usuário digita:
