@@ -2,7 +2,7 @@ import com.google.gson.JsonObject;
 
 public class Conversor {
 
-    private static final String CHAVE = "75b4a8d8e16b308f8ab249b4";
+    private static final String CHAVE = "SUA_CHAVE_API";
     private static final String URL = "https://v6.exchangerate-api.com/v6/";
     private static final String P = "/pair/";
     private static final String L = "/latest/";
@@ -72,3 +72,4 @@ public class Conversor {
         }
     }
 }
+
